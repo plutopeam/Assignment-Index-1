@@ -62,11 +62,11 @@ Code must be written in Javascript language. The code will be tested with Node8,
 ## Questions
 Q1: What is REST API?
 
-A1: <insert your answer here>
+A1: เป็นการสร้าง web service ชนิดหนึ่ง ใช้หลักการ stateless คือไม่มี session และจะอาศัย URI/URL ของ request เพื่อค้นหาและประมวลผลแล้วตอบกลับไปในรูป XML, HTML, JSON  โดย response ที่ตอบกลับจะเป็นการยืนยันผลของคำสั่งที่ส่งมา
 
 Q2: What do you expect to get during a developer at index living mall?
 
-A2: <insert your answer here>
+A2: ได้ประสบการณ์การทำงาน ได้รับความรู้ใหม่ๆ และสามารถนำความรู้ที่มีอยู่ไปใช้ในการพัฒนาองค์กรได้
 
 ## Submitting
 
